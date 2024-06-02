@@ -1,2 +1,12 @@
-# TASK-MANAGER..
-TASK MANAGER built using html,css, javascript
+Task Manager:
+
+A simple task manager built with HTML, CSS, and JavaScript.
+
+
+Features
+
+- Add new tasks
+- Mark tasks as complete
+- Delete tasks
+  
+
